@@ -1,31 +1,32 @@
 _CeladonMart1Text1::
-	text "Hello! Welcome to"
-	line "CELADON DEPT."
-	cont "STORE."
+	text "שלום! ברוך הבא"
+	line "לחנות המחלקות של."
+	cont "עיר האביב."
 
-	para "The board on the"
-	line "right describes"
-	cont "the store layout."
+	para "הלוח מימין מתאר"
+	line "את מפת החנות."
 	done
 
 _CeladonMart1Text2::
-	text "1F: SERVICE"
-	line "    COUNTER"
+	text "קומה 1: דלפק"
+	line "שירות"
 
-	para "2F: TRAINER'S"
-	line "    MARKET"
+	para "קומה 2: שוק"
+	line "המאמנים"
 
-	para "3F: TV GAME SHOP"
+	para "קומה 3: חנות"
+	line "משחקי המחשב"
 
-	para "4F: WISEMAN GIFTS"
+	para "קומה 4: מתנות"
+	line "לאנשים חכמים"
 
-	para "5F: DRUG STORE"
+	para "קומה 5: בית מרקחת"
 
-	para "ROOFTOP SQUARE:"
-	line "VENDING MACHINES"
+	para "הגג: מכונות"
+	line "אוטומטיות"
 	done
 
 _CeladonMart1Text3::
-	text "1F: SERVICE"
-	line "    COUNTER"
+	text "קומה 1: דלפק"
+	line "השירות"
 	done

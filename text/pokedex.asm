@@ -19,13 +19,12 @@ _KangaskhanDexEntry::
 	dex
 
 _NidoranMDexEntry::
-	text "Stiffens its ears"
-	next "to sense danger."
-	next "The larger its"
+	text "מקשיח את אזניו"
+	next "בכדי לחוש בסכנה."
+	next "ככל שקרניו גדולות"
 
-	page "horns, the more"
-	next "powerful its"
-	next "secreted venom"
+	page "יותר, רעלו הסודי"
+	next "חזק יותר."
 	dex
 
 _ClefairyDexEntry::
@@ -49,13 +48,13 @@ _SpearowDexEntry::
 	dex
 
 _VoltorbDexEntry::
-	text "Usually found in"
-	next "power plants."
-	next "Easily mistaken"
+	text "לרוב נמצא בתחנות"
+	next "כוח. מכיוון שקל"
+	next "להתבלבל בינו לבין"
 
-	page "for a # BALL,"
-	next "they have zapped"
-	next "many people"
+	page "#כדור@, כבר קרה"
+	next "שחשמלמלים חשמלו"
+	next "אנשים רבים"
 	dex
 
 _NidokingDexEntry::
@@ -199,23 +198,23 @@ _ArcanineDexEntry::
 	dex
 
 _MewDexEntry::
-	text "So rare that it"
-	next "is still said to"
-	next "be a mirage by"
+	text "נדיר במיוחד, כך"
+	next "שמומחים רבים"
+	next "עדיין אומרים שהוא"
 
-	page "many experts. Only"
-	next "a few people have"
-	next "seen it worldwide"
+	page "הזייה. רק אנשים"
+	next "ספורים ראו אותו"
+	next "בכלל בעולם כולו."
 	dex
 
 _GyaradosDexEntry::
-	text "Rarely seen in"
-	next "the wild. Huge"
-	next "and vicious, it"
+	text "נצפה בפרא רק"
+	next "לעתים רחוקות."
+	next "ענקי ומרושע,"
 
-	page "is capable of"
-	next "destroying entire"
-	next "cities in a rage"
+	page "הלויטורף אחראי"
+	next "להשמדת ערים שלמות"
+	next "בזעמו."
 	dex
 
 _ShellderDexEntry::

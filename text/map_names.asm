@@ -22,55 +22,55 @@ IndigoPlateauName:
 SaffronCityName:
 	db "עיר הזעפרן@" ; SAFFRON CITY
 Route1Name:
-	db "דרך 1@" ; ROUTE 1
+	db "מסלול 1@" ; ROUTE 1
 Route2Name:
-	db "דרך 2@" ; ROUTE 2
+	db "מסלול 2@" ; ROUTE 2
 Route3Name:
-	db "דרך 3@" ; ROUTE 3
+	db "מסלול 3@" ; ROUTE 3
 Route4Name:
-	db "דרך 4@" ; ROUTE 4
+	db "מסלול 4@" ; ROUTE 4
 Route5Name:
-	db "דרך 5@" ; ROUTE 5
+	db "מסלול 5@" ; ROUTE 5
 Route6Name:
-	db "דרך 6@" ; ROUTE 6
+	db "מסלול 6@" ; ROUTE 6
 Route7Name:
-	db "דרך 7@" ; ROUTE 7
+	db "מסלול 7@" ; ROUTE 7
 Route8Name:
-	db "דרך 8@" ; ROUTE 8
+	db "מסלול 8@" ; ROUTE 8
 Route9Name:
-	db "דרך 9@" ; ROUTE 9
+	db "מסלול 9@" ; ROUTE 9
 Route10Name:
-	db "דרך 01@" ; ROUTE 10
+	db "מסלול 01@" ; ROUTE 10
 Route11Name:
-	db "דרך 11@" ; ROUTE 11
+	db "מסלול 11@" ; ROUTE 11
 Route12Name:
-	db "דרך 21@" ; ROUTE 12
+	db "מסלול 21@" ; ROUTE 12
 Route13Name:
-	db "דרך 31@" ; ROUTE 13
+	db "מסלול 31@" ; ROUTE 13
 Route14Name:
-	db "דרך 41@" ; ROUTE 14
+	db "מסלול 41@" ; ROUTE 14
 Route15Name:
-	db "דרך 51@" ; ROUTE 15
+	db "מסלול 51@" ; ROUTE 15
 Route16Name:
-	db "דרך 61@" ; ROUTE 16
+	db "מסלול 61@" ; ROUTE 16
 Route17Name:
-	db "דרך 71@" ; ROUTE 17
+	db "מסלול 71@" ; ROUTE 17
 Route18Name:
-	db "דרך 81@" ; ROUTE 18
+	db "מסלול 81@" ; ROUTE 18
 Route19Name:
-	db "דרך החוף 91 @" ; SEA ROUTE 19
+	db "מסלול ים 91 @" ; SEA ROUTE 19
 Route20Name:
-	db "דרך החוף 02@" ; SEA ROUTE 20
+	db "מסלול ים 02@" ; SEA ROUTE 20
 Route21Name:
-	db "דרך החוף 12@" ; SEA ROUTE 21
+	db "מסלול ים 12@" ; SEA ROUTE 21
 Route22Name:
-	db "דרך 22@" ; ROUTE 22
+	db "מסלול 22@" ; ROUTE 22
 Route23Name:
-	db "דרך 32@" ; ROUTE 23
+	db "מסלול 32@" ; ROUTE 23
 Route24Name:
-	db "דרך 42@" ; ROUTE 24
+	db "מסלול 42@" ; ROUTE 24
 Route25Name:
-	db "דרך 52@" ; ROUTE 25
+	db "מסלול 52@" ; ROUTE 25
 ViridianForestName:
 	db "יער ירוק-עד@" ; VIRIDIAN FOREST
 MountMoonName:
@@ -78,9 +78,9 @@ MountMoonName:
 RockTunnelName:
 	db "מנהרת הסלע@" ; ROCK TUNNEL
 SeaCottageName:
-	db "בקתת חוף@" ; SEA COTTAGE
+	db "בית על הים@" ; SEA COTTAGE
 SSAnneName:
-	db "הספינה אנה@" ; S.S.ANNE
+	db "האניה אן@" ; S.S.ANNE
 PokemonLeagueName:
 	db "ליגת ה#ימון@" ; #MON LEAGUE
 UndergroundPathName:
@@ -94,9 +94,9 @@ VictoryRoadName:
 DiglettsCaveName:
 	db "המערה של חפיד@" ; DIGLETT's CAVE
 RocketHQName:
-	db "מפקדת רוקט@" ; ROCKET HQ
+	db "מטה רוקט@" ; ROCKET HQ
 SilphCoName:
-	db "סילף בע″מ@" ; SILPH CO.
+	db "תאגיד סילף@" ; SILPH CO.
 PokemonMansionName:
 	db "אחוזת ה<pkmn>@" ;  MANSION
 SafariZoneName:
@@ -104,4 +104,4 @@ SafariZoneName:
 CeruleanCaveName:
 	db "מערת הטורקיז@" ; CERULEAN CAVE
 PowerPlantName:
-	db "תחנת הכוח@" ; POWER PLANT
+	db "תחנת כח@" ; POWER PLANT

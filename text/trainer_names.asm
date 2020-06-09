@@ -14,7 +14,7 @@ TrainerNames:
 	db "להטוטן@" ; JUGGLER
 	db "דייג@" ; FISHERMAN
 	db "שחיין@" ; SWIMMER
-	db "בריון@" ; CUE BALL
+	db "סנוקר@" ; CUE BALL
 	db "מהמר@" ; GAMBLER
 	db "יפהפיה@" ; BEAUTY
 	db "בעלת אוב@" ; PSYCHIC
@@ -22,9 +22,9 @@ TrainerNames:
 	db "להטוטן@" ; JUGGLER
 	db "מאלף@" ; TAMER
 	db "צפר@" ; BIRD KEEPER
-	db "מאסטר@" ; BLACKBELT
+	db "חגורה שחורה@" ; BLACKBELT
 	db "יריב1@" ; RIVAL1
-	db "פרופ. אלון@" ; PROF.OAK
+	db "פרופ' אלון@" ; PROF.OAK
 	db "מפקד גליץ'@" ; CHIEF
 	db "מדען@" ; SCIENTIST
 	db "אלפרון@" ; GIOVANNI
@@ -43,6 +43,6 @@ TrainerNames:
 	db "יריב2@" ; RIVAL2
 	db "יריב3@" ; RIVAL3
 	db "אירנה@" ; LORELEI
-	db "מדיום@" ; CHANNELER
+	db "מתקשרת@" ; CHANNELER
 	db "רוחמה@" ; AGATHA
 	db "אברי@" ; LANCE

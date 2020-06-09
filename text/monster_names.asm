@@ -26,7 +26,7 @@ MonsterNames:
 	db "שאד@@@@@@@" ; GASTLY
 	db "מגל-שלמה@@" ; SCYTHER
 	db "כוכיש@@@@@" ; STARYU
-	db "מפציצב@@@@" ; BLASTOISE
+	db "שלחופגז@@@@" ; BLASTOISE
 	db "צבתך@@@@@@" ; PINSIR
 	db "סבכיה@@@@@" ; TANGELA
 	db "MISSINGNO." ; MISSINGNO.
@@ -71,9 +71,9 @@ MonsterNames:
 	db "שנישלו@@@@" ; DODUO
 	db "ראשנע@@@@@" ; POLIWAG
 	db "בישה@@@@@@" ; JYNX
-	db "מותלאתה@@@" ; MOLTRES
-	db "קיפאוואחד@" ; ARTICUNO
-	db "חשמתנן@@@@" ; ZAPDOS
+	db "תלתיך@@@" ; MOLTRES
+	db "חדקרטיב@" ; ARTICUNO
+	db "תריזץ@@@@" ; ZAPDOS
 	db "שינוץ@@@@@" ; DITTO
 	db "מיצי@@@@@@" ; MEOWTH
 	db "שרטני@@@@@" ; KRABBY
@@ -81,7 +81,7 @@ MonsterNames:
 	db "MISSINGNO." ; MISSINGNO.
 	db "MISSINGNO." ; MISSINGNO.
 	db "ששועל@@@@@" ; VULPIX
-	db "תשעלים@@@@" ; NINETALES
+	db "תשעשיות@@@@" ; NINETALES
 	db "צויצוץ@@@@" ; PIKACHU
 	db "עכברעם@@@@" ; RAICHU
 	db "MISSINGNO." ; MISSINGNO.
@@ -121,8 +121,8 @@ MonsterNames:
 	db "טלחש@@@@@@" ; DEWGONG
 	db "MISSINGNO." ; MISSINGNO.
 	db "MISSINGNO." ; MISSINGNO.
-	db "זחי@@@@@@@" ; CATERPIE
-	db "שינורמיל@@" ; METAPOD
+	db "זחלול@@@@@@@" ; CATERPIE
+	db "צורמיל@@" ; METAPOD
 	db "פרפרץ@@@@@" ; BUTTERFREE
 	db "גברלוף@@@@" ; MACHAMP
 	db "MISSINGNO." ; MISSINGNO.

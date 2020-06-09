@@ -1,54 +1,54 @@
 _VermilionHouse2Text_560b1::
-	text "I'm the FISHING"
-	line "GURU!"
+	text "אני גורו"
+	line "הדיג!"
 
-	para "I simply Looove"
-	line "fishing!"
+	para "אני פשוט אוהבבב"
+	line "לדוג!"
 
-	para "Do you like to"
-	line "fish?"
+	para "האם תרצה"
+	line "לדוג?"
 	done
 
 _VermilionHouse2Text_560b6::
-	text "Grand! I like"
-	line "your style!"
+	text "מעולה! אני אוהב"
+	line "את הסגנון שלך!"
 
-	para "Take this and"
-	line "fish, young one!"
+	para "קח את זה"
+	line "ותדוג לך, ילדון!"
 
-	para "<PLAYER> received"
-	line "an @"
+	para "<PLAYER> קיבל"
+	line "@"
 	TX_RAM wcf4b
 	text "!@@"
 
 _VermilionHouse2Text_560bb::
 	text ""
 
-	para "Fishing is a way"
-	line "of life!"
+	para "לדוג זה"
+	line "דרך חיים!"
 
-	para "From the seas to"
-	line "rivers, go out"
-	cont "and land the big"
-	cont "one, young one!"
+	para "צא אל הים,"
+	line "אל הנהרות"
+	cont "ותפוס בחקה את"
+	cont "הדגים הגדולים, ילדון!"
 	done
 
 _VermilionHouse2Text_560c0::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "הו... זה כל כך"
+	line "מאכזב..."
 	done
 
 _VermilionHouse2Text_560c5::
-	text "Hello there,"
+	text "שלום לך,"
 	line "<PLAYER>!"
 
-	para "How are the fish"
-	line "biting?"
+	para "איך הולך לך"
+	line "עם הדיג?"
 	done
 
 _VermilionHouse2Text_560ca::
-	text "Oh no!"
+	text "אוי לא!"
 
-	para "You have no room"
-	line "for my gift!"
+	para "אין לך מספיק מקום"
+	line "בשביל המתנה שלי!"
 	done

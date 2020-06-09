@@ -9,38 +9,38 @@ ItemNames:
 	db "כדור ספארי@"      ; SAFARI BALL
 	db "#ידע@"            ; POKéDEX
 	db "אבן ירח@"         ; MOON STONE
-	db "נוגדן@"           ; ANTIDOTE
-	db "רפא כויה@"       ; BURN HEAL
-	db "רפא קרח@"         ; ICE HEAL
+	db "שיקוי שכנגד@"           ; ANTIDOTE
+	db "מרפא כויה@"       ; BURN HEAL
+	db "מרפא קרח@"         ; ICE HEAL
 	db "שיקוי מעורר@"     ; AWAKENING
-	db "רפא שיתוק@"       ; PARLYZ HEAL
-	db "ריפוי מלא@"       ; FULL RESTORE
-	db "שיקוי על@"        ; MAX POTION
+	db "מרפא שיתוק@"       ; PARLYZ HEAL
+	db "שחזור מלא@"       ; FULL RESTORE
+	db "שיקוי מירבי@"        ; MAX POTION
 	db "שיקוי יתר@"       ; HYPER POTION
-	db "שיקוי רב@"        ; SUPER POTION
+	db "שיקוי על@"        ; SUPER POTION
 	db "שיקוי@"           ; POTION
 	db "תג הסלע@"         ; BOULDERBADGE
 	db "תג האדווה@"       ; CASCADEBADGE
 	db "תג הרעם@"         ; THUNDERBADGE
-	db "תג הקשת בענן@"    ; RAINBOWBADGE
-	db "תג הלב@"          ; SOULBADGE
+	db "תג הקשת@"    ; RAINBOWBADGE
+	db "תג הנפש@"          ; SOULBADGE
 	db "תג הזהב@"         ; MARSHBADGE
-	db "תג המגמה@"        ; VOLCANOBADGE
-	db "תג האדמה@"        ; EARTHBADGE
+	db "תג הגעש@"        ; VOLCANOBADGE
+	db "תג הארץ@"        ; EARTHBADGE
 	db "חבל הימלטות@"     ; ESCAPE ROPE
 	db "דוחה@"            ; REPEL
-	db "שרף עתיק@"        ; OLD AMBER
+	db "ענבר ישן@"        ; OLD AMBER
 	db "אבן אש@"          ; FIRE STONE
 	db "אבן ברק@"         ; THUNDERSTONE
 	db "אבן מים@"         ; WATER STONE
-	db "עוד HP@"          ; HP UP
+	db "עוד בריאות@"          ; HP UP
 	db "חלבון@"           ; PROTEIN
 	db "ברזל@"            ; IRON
-	db "פחמן@"            ; CARBOS
+	db "פחמין@"            ; CARBOS
 	db "סידן@"           ; CALCIUM
 	db "ממתק נדיר@"       ; RARE CANDY
 	db "מאובן כיפתי@"     ; DOME FOSSIL
-	db "מאובן סלילי@"     ; HELIX FOSSIL
+	db "מאובן גדילי@"     ; HELIX FOSSIL
 	db "מפתח סודי@"       ; SECRET KEY
 	db "?????@"           ; ?????
 	db "שובר לאופניים@"   ; BIKE VOUCHER
@@ -48,20 +48,20 @@ ItemNames:
 	db "אבן עלה@"         ; LEAF STONE
 	db "כרטיס מפתח@"      ; CARD KEY
 	db "גוש זהב@"         ; NUGGET
-	db "עוד PP@"          ; PP UP
+	db "עוד כח@"          ; PP UP
 	db "בובת #ימון@"      ; POKé DOLL
-	db "ריפוי מלא@"       ; FULL HEAL
-	db "החייאה@"          ; REVIVE
-	db "החייאת על@"       ; MAX REVIVE
+	db "מרפא מלא@"       ; FULL HEAL
+	db "מחיה@"          ; REVIVE
+	db "מחיה מירבי@"       ; MAX REVIVE
 	db "הגנה מיוחדת@"     ; GUARD SPEC.
 	db "דוחה על@"         ; SUPER REPEL
-	db "דוחה יתר@"        ; MAX REPEL
+	db "דוחה מירבי@"        ; MAX REPEL
 	db "X הרסנות@"        ; DIRE HIT
 	db "מטבע@"            ; COIN
-	db "מים מינרלים@"     ; FRESH WATER
-	db "משקה קל@"         ; SODA POP
+	db "מים צלולים@"     ; FRESH WATER
+	db "משקה מוגז@"         ; SODA POP
 	db "לימונדה	@"        ; LEMONADE
-	db "כרטיס לשיט@"      ; S.S.TICKET
+	db "כרטיס לאניה@"      ; S.S.TICKET
 	db "שיני זהב@"        ; GOLD TEETH
 	db "X מתקפה@"         ; X ATTACK
 	db "X הגנה@"          ; X DEFEND
@@ -77,11 +77,11 @@ ItemNames:
 	db "חכה בלויה@"       ; OLD ROD
 	db "חכה איכותית@"     ; GOOD ROD
 	db "חכת על@"          ; SUPER ROD
-	db "עוד PP@"          ; PP UP
+	db "עוד כח@"          ; PP UP
 	db "אתר@"             ; ETHER
-	db "אתר על@"          ; MAX ETHER
-	db "סם חיים@"         ; ELIXER
-	db "סם חיים על@"      ; MAX ELIXER
+	db "אתר מירבי@"          ; MAX ETHER
+	db "תכשיר@"         ; ELIXER
+	db "תכשיר מירבי@"      ; MAX ELIXER
 	db "B2F@"             ; B2F
 	db "B1F@"             ; B1F
 	db "1F@"              ; 1F

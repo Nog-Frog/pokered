@@ -1158,17 +1158,16 @@ _NoWillText::
 	prompt
 
 _CantEscapeText::
-	text "לא יכול לברוח!"
+	text "לא ניתן לברוח!"
 	prompt
 
 _NoRunningText::
-	text "לא! לא בורחים"
-	line "מקרב מול מאמן!"
+	text "לא! אסור לברוח"
+	line "מקרבות מאמן!"
 	prompt
 
 _GotAwayText::
-	text "הצלחת לברוח"
-	line "בלי פגע!"
+	text "יצא מזה בשלום!"
 	prompt
 
 _ItemsCantBeUsedHereText::

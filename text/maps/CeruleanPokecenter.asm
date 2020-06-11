@@ -1,24 +1,21 @@
 _CeruleanPokecenterText2::
-	text "That BILL!"
+	text "!הזה BILL";TODO
 
-	para "I heard that"
-	line "he'll do whatever"
-	cont "it takes to get"
-	cont "rare #MON!"
+	para "שמעתי שהוא יעשה הכל"
+	line "כדי להשיג #ימונים"
+	cont "!נדירים"
 	done
 
 _CeruleanPokecenterText3::
-	text "Have you heard"
-	line "about BILL?"
+	text "שמעת פעם"
+	line "?BILL על";TODO
 
-	para "Everyone calls"
-	line "him a #MANIAC!"
+	para "כולם קוראים לו"
+	line "#MANIAC";TODO
 
-	para "I think people"
-	line "are just jealous"
-	cont "of BILL, though."
+	para "אבל אני חושב שאנשים"
+	line "BILLפשוט מקנאים ב";TODO
 
-	para "Who wouldn't want"
-	line "to boast about"
-	cont "their #MON?"
+	para "מי לא ירצה להתפאר"
+	line "?ב#ימונים שלו"
 	done

@@ -1,107 +1,106 @@
 _Museum1FText_5c21a::
-	text "Come again!"
+	text "תבוא שוב!"
 	done
 
 _Museum1FText_5c21f::
-	text "It's ¥50 for a"
-	line "child's ticket."
+	text "כרטיס לילד"
+	line "עולה ¥50."
 
-	para "Would you like to"
-	line "come in?"
+	para "תרצה להכנס?"
 	done
 
 _Museum1FText_5c224::
-	text "Right, ¥50!"
-	line "Thank you!"
+	text "נהדר, ¥50!"
+	line "תודה!"
 	done
 
 _Museum1FText_5c229::
-	text "You don't have"
-	line "enough money."
+	text "אין לך"
+	line "מספיק כסף."
 	prompt
 
 _Museum1FText_5c22e::
-	text "You can't sneak"
-	line "in the back way!"
+	text "אתה לא יכול"
+	line "להתגנב מהכניסה"
+	cont "האחורית!"
 
-	para "Oh, whatever!"
-	line "Do you know what"
-	cont "AMBER is?"
+	para "הו, לא חשוב!"
+	line "אתה יודע"
+	cont "מה זה שרף?"
 	done
 
 _Museum1FText_5c233::
-	text "There's a lab"
-	line "somewhere trying"
-	cont "to resurrect"
-	cont "ancient #MON"
-	cont "from AMBER."
+	text "יש מעבדה"
+	line "שמנסה לשחזר"
+	cont "#ימונים עתיקים"
+	cont "משרף."
 	done
 
 _Museum1FText_5c238::
-	text "AMBER is fossil-"
-	line "ized tree sap."
+	text "שרף הוא מאובן"
+	line "העשוי מנוזל"
+	cont "שיוצא מעצים."
 	done
 
 _Museum1FText_5c23d::
-	text "Please go to the"
-	line "other side!"
+	text "עבור לצד השני"
+	line "בבקשה!"
 	done
 
 _Museum1FText_5c242::
-	text "Take plenty of"
-	line "time to look!"
+	text "קח את הזמן"
+	line "להסתכל סביב!"
 	done
 
 _Museum1FText_5c251::
-	text "That is one"
-	line "magnificent"
-	cont "fossil!"
+	text "המאובן הזה"
+	line "ממש מרשים!"
 	done
 
 _Museum1FText_5c28e::
-	text "Ssh! I think that"
-	line "this chunk of"
-	cont "AMBER contains"
-	cont "#MON DNA!"
+	text "ששש! אני חושב"
+	line "שחתיכת השרף"
+	cont "הזאת מכילה בתוכה"
+	cont "דנ"א של #ימון!"
 
-	para "It would be great"
-	line "if #MON could"
-	cont "be resurrected"
-	cont "from it!"
+	para "זה יהיה נהדר"
+	line "אם נוכל לשחזר"
+	cont "#ימונים מזה!"
 
-	para "But, my colleagues"
-	line "just ignore me!"
+	para "אבל, הקולגות"
+	line "שלי לא"
+	cont "מקשיבים לי!"
 
-	para "So I have a favor"
-	line "to ask!"
+	para "אז יש לי בקשה"
+	line "ממך!"
 
-	para "Take this to a"
-	line "#MON LAB and"
-	cont "get it examined!"
+	para "קח את זה"
+	line "למעבדת #ימונים"
+	cont "שייבדקו את זה!"
 	prompt
 
 _ReceivedOldAmberText::
-	text "<PLAYER> received"
-	line "OLD AMBER!@@"
+	text "קיבל <PLAYER>"
+	line "שרף עתיק!@@"
 
 _Museum1FText_5c299::
-	text "Ssh! Get the OLD"
-	line "AMBER checked!"
+	text "ששש! תבדוק"
+	line "את השרף העתיק!"
 	done
 
 _Museum1FText_5c29e::
-	text "You don't have"
-	line "space for this!"
+	text "אין לך מקום"
+	line "בשביל זה!"
 	done
 
 _Museum1FText_5c2ad::
-	text "We are proud of 2"
-	line "fossils of very"
-	cont "rare, prehistoric"
-	cont "#MON!"
+	text "יש לנו שני"
+	line "מאובנים נדירים"
+	cont "ופרהיסטוריים"
+	cont "של #ימונים!"
 	done
 
 _Museum1FText_5c2bc::
-	text "The AMBER is"
-	line "clear and gold!"
+	text "השרף"
+	line "זהוב ונקי!"
 	done

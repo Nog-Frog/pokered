@@ -1,90 +1,88 @@
 _ViridianGymText_74ace::
-	text "Fwahahaha! This is"
-	line "my hideout!"
+	text "חהחהחה! זהו מקום"
+	line "המחבוא שלי!"
 
-	para "I planned to"
-	line "resurrect TEAM"
-	cont "ROCKET here!"
+	para "פה אני מתכנן"
+	line "להחזיר לתחייה"
+	cont "!TEAM ROCKET את" ; TODO
 
-	para "But, you have"
-	line "caught me again!"
-	cont "So be it! This"
-	cont "time, I'm not"
-	cont "holding back!"
+	para "אבל, תפסת אותי"
+	cont "עוד הפעם!"
+	cont "שיהיה! הפעם אני"
+	cont "לא מרחם!"
 
-	para "Once more, you"
-	line "shall face"
-	cont "GIOVANNI, the"
-	cont "greatest trainer!"
+	para "פעם נוספת, אתה"
+	line "תתמודד מול"
+	cont "אלפרון, המאמן"
+	cont "הטוב ביותר!"
 	done
 
 _ViridianGymText_74ad3::
-	text "Ha!"
-	line "That was a truly"
-	cont "intense fight!"
-	cont "You have won!"
-	cont "As proof, here is"
-	cont "the EARTHBADGE!@@"
+	text "חה!"
+	line "זה בהחלט היה"
+	cont "קרב אינטנסיבי!"
+	cont "ניצחת! וכהוכחה,"
+	cont "קח את תג האדמה!@@"
 
 _ViridianGymText_74ad9::
-	text "Having lost, I"
-	line "cannot face my"
-	cont "underlings!"
-	cont "TEAM ROCKET is"
-	cont "finished forever!"
+	text "עכשיו כשהפסדתי,"
+	line "אני לא יכול "
+	cont "להתמודד עם"
+	cont "הנחותים לי!"
+	cont "TEAM ROCKET"
+	cont "גמורים לעד!"
 
-	para "I will dedicate my"
-	line "life to the study"
-	cont "of #MON!"
+	para "אני אקדיש את חיי"
+	line "ללמידת #ימונים!"
 
-	para "Let us meet again"
-	line "some day!"
-	cont "Farewell!@@"
+	para "שניפגש עוד יום"
+	line "מן הימים!"
+	cont "להתראות!@@"
 
 _ViridianGymText12::
-	text "The EARTHBADGE"
-	line "makes #MON of"
-	cont "any level obey!"
+	text "תג האדמה גורם"
+	line "ל#ימונים מכל"
+	cont "הרמות לציית!"
 
-	para "It is evidence of"
-	line "your mastery as a"
-	cont "#MON trainer!"
+	para "הוא הוכחה של"
+	line "כישוריך המעולים"
+	cont "כמאמן #ימון!"
 
-	para "With it, you can"
-	line "enter the #MON"
-	cont "LEAGUE!"
+	para "איתו בידך, אתה"
+	line "יכול להיכנס"
+	cont "לליגת ה#ימון!"
 
-	para "It is my gift for"
-	line "your #MON"
-	cont "LEAGUE challenge!"
+	para "זוהי מתנתי לאתגר"
+	line "ליגת ה#ימון שלך"
 	done
 
 _ReceivedTM27Text::
-	text "<PLAYER> received"
-	line "TM27!@@"
+	text "<PLAYER> קיבל"
+	line "TM27!@@" ; TODO
 
 _TM27ExplanationText::
 	text ""
 
-	para "TM27 is FISSURE!"
-	line "It will take out"
-	cont "#MON with just"
-	cont "one hit!"
+	para "TM27 הוא המהלך"
+	line "בולען! הוא ינצח"
+	cont "#ימון במכה"
+	cont "אחת בלבד!"
 
-	para "I made it when I"
-	line "ran the GYM here,"
-	cont "too long ago..."
+	para "הכנתי אותו"
+	line "כשניהלתי את הGYM," ; TODO
+	cont "פה. עבר יותר מדי"
+	cont "זמן מאז..."
 	done
 
 _TM27NoRoomText::
-	text "You do not have"
-	line "space for this!"
+	text "אין לך מקום"
+	line "בשביל זה!"
 	done
 
 _ViridianGymBattleText1::
-	text "Heh! You must be"
-	line "running out of"
-	cont "steam by now!"
+	text "חה! בטח המוטיבציה"
+	line "שלך כבר אזלה"
+	cont "עד עכשיו!"
 	done
 
 _ViridianGymEndBattleText1::

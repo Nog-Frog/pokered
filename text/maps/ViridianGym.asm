@@ -18,7 +18,7 @@ _ViridianGymText_74ace::
 	done
 
 _ViridianGymText_74ad3::
-	text "חה!"
+	text "הא!"
 	line "זה בהחלט היה"
 	cont "קרב אינטנסיבי!"
 	cont "ניצחת! וכהוכחה,"

@@ -29,7 +29,7 @@ _ViridianGymText_74ad9::
 	line "אני לא יכול "
 	cont "להתמודד עם"
 	cont "הנחותים לי!"
-	cont "TEAM ROCKET"
+	cont "TEAM ROCKET" ;TODO
 	cont "גמורים לעד!"
 
 	para "אני אקדיש את חיי"

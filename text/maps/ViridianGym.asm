@@ -35,8 +35,8 @@ _ViridianGymText_74ad9::
 	para "אני אקדיש את חיי"
 	line "ללימודי #ימונים!"
 
-	para "שניפגש עוד יום"
-	line "מן הימים!"
+	para "יום יבוא ועוד"
+	line "ניפגש שוב!"
 	cont "להתראות!@@"
 
 _ViridianGymText12::

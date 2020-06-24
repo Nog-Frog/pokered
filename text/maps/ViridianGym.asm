@@ -69,7 +69,7 @@ _TM27ExplanationText::
 	cont "אחת בלבד!"
 
 	para "הכנתי אותו"
-	line "כשניהלתי את הGYM," ; TODO
+	line "כשניהלתי את המכון,"
 	cont "פה. עבר יותר מדי"
 	cont "זמן מאז..."
 	done

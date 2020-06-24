@@ -7,7 +7,7 @@ _ViridianGymText_74ace::
 	cont "!TEAM ROCKET את" ; TODO
 
 	para "אבל, תפסת אותי"
-	cont "עוד הפעם!"
+	cont "עוד פעם!"
 	cont "שיהיה! הפעם אני"
 	cont "לא מרחם!"
 

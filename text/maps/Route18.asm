@@ -1,58 +1,59 @@
 _Route18BattleText1::
-	text "I always check"
-	line "every grassy area"
-	cont "for new #MON."
+	text "אני בודק"
+	line "כל איזור עשבי"
+	cont "כדי למצוא"
+	cont "#ימונים חדשים."
 	done
 
 _Route18EndBattleText1::
-	text "Tch!"
+	text "טששש!"
 	prompt
 
 _Route18AfterBattleText1::
-	text "I wish I had a"
-	line "BIKE!"
+	text "הלוואי והיו לי"
+	line "אופניים!"
 	done
 
 _Route18BattleText2::
-	text "Kurukkoo!"
-	line "How do you like"
-	cont "my bird call?"
+	text "קוקוריקו!"
+	line "אהבת את"
+	cont "קולות הציפור שלי?"
 	done
 
 _Route18EndBattleText2::
-	text "I"
-	line "had to bug you!"
+	text "הייתי"
+	line "חייב להציק לך!"
 	prompt
 
 _Route18AfterBattleText2::
-	text "I also collect sea"
-	line "#MON on"
-	cont "weekends!"
+	text "אני גם אוסף"
+	line "#ימונים מסוג מים"
+	cont "בסופי שבוע!"
 	done
 
 _Route18BattleText3::
-	text "This is my turf!"
-	line "Get out of here!"
+	text "זה השטח שלי!"
+	line "תסתלק מכאן!"
 	done
 
 _Route18EndBattleText3::
-	text "Darn!"
+	text "אוף!"
 	prompt
 
 _Route18AfterBattleText3::
-	text "This is my fave"
-	line "#MON hunting"
-	cont "area!"
+	text "זה האיזור"
+	line "המועדף עליי"
+	cont "לציד #ימונים!"
 	done
 
 _Route18Text4::
-	text "ROUTE 18"
-	line "CELADON CITY -"
-	cont "FUCHSIA CITY"
+	text "דרך 18"
+	line "עיר האביב -"
+	cont "עיר השושנה"
 	done
 
 _Route18Text5::
-	text "CYCLING ROAD"
-	line "No pedestrians"
-	cont "permitted!"
+	text "שביל אופניים"
+	line "אין כניסה"
+	cont "להולכי רגל!"
 	done

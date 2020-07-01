@@ -46,7 +46,7 @@ _Route18AfterBattleText3::
 	done
 
 _Route18Text4::
-	text "דרך 18"
+	text "דרך 81"
 	line "עיר האביב -"
 	cont "עיר השושנה"
 	done

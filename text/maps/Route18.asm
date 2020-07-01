@@ -5,7 +5,7 @@ _Route18BattleText1::
 	done
 
 _Route18EndBattleText1::
-	text "טששש!"
+	text "צק!"
 	prompt
 
 _Route18AfterBattleText1::

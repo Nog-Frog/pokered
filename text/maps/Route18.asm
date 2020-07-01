@@ -1,8 +1,7 @@
 _Route18BattleText1::
-	text "אני בודק"
-	line "כל איזור עשבי"
-	cont "כדי למצוא"
-	cont "#ימונים חדשים."
+	text "אני מחפש #ימונים"
+	line "חדשים בכל כר"
+	cont "דשא."
 	done
 
 _Route18EndBattleText1::

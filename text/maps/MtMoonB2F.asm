@@ -54,8 +54,8 @@ _MtMoon3Text_49f99::
 _MtMoon3BattleText2::
 	text "כנופיית רוקט תמצא"
 	line "את המאובנים,"
-	cont "יחייה אותם,"
-	cont "וימכור אותם עבור"
+	cont "תחייה אותם,"
+	cont "ותמכור אותם עבור"
 	cont "כסף!"
 	done
 

@@ -52,10 +52,11 @@ _MtMoon3Text_49f99::
 	line "שלי!@@"
 
 _MtMoon3BattleText2::
-	text "צוות רוקט ימצא את"
-	line "המאובנים, יחייה"
-	cont "אותם, וימכור אותם"
-	cont "עבור כסף!"
+	text "כנופיית רוקט תמצא"
+	line "את המאובנים,"
+	cont "יחייה אותם,"
+	cont "וימכור אותם עבור"
+	cont "כסף!"
 	done
 
 _MtMoon3EndBattleText2::
@@ -65,14 +66,15 @@ _MtMoon3EndBattleText2::
 
 _MtMoon3AfterBattleText2::
 	text "אתה עיצבנת אותי!"
-	line "צוות רוקט יכניס"
-	cont "אותך לרשימה"
+	line "כנופיית רוקט"
+	cont "תכניס אותך לרשימה"
 	cont "השחורה!"
 	done
 
 _MtMoon3BattleText3::
-	text "אנחנו, צוות רוקט,"
-	line "עברייני #ימון!"
+	text "אנחנו, כנופיית"
+	line "רוקט, עברייני"
+	cont "#ימון!"
 	done
 
 _MtMoon3EndBattleText3::

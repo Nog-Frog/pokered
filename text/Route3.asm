@@ -16,8 +16,9 @@ _Route3BattleText1::
 	done
 
 _Route3EndBattleText1::
-	text "אני לא מאמין!"
-	line "ניצחת אותי שוב!"
+	text "אני"
+	line "לא מאמין!"
+	cont "ניצחת אותי שוב!"
 	prompt
 
 _Route3AfterBattleText1::
@@ -71,7 +72,7 @@ _Route3BattleText4::
 _Route3EndBattleText4::
 	text "לו היה לי"
 	line "#ימון חדש"
-	cont "הייתי מנצחת!"
+	cont "הייתי מנצח!"
 	prompt
 
 _Route3AfterBattleText4::
@@ -104,12 +105,12 @@ _Route3BattleText6::
 
 _Route3EndBattleText6::
 	text "הפסדתי!"
-	line "אני לא מאמינה"
+	line "אני לא מאמין"
 	cont "שהפסדתי!"
 	prompt
 
 _Route3AfterBattleText6::
-	text "אני תמיד לובשת"
+	text "אני תמיד לובש"
 	line "מכנסיים קצרים,"
 	cont "אפילו בחורף!"
 	done

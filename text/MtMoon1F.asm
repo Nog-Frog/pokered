@@ -20,7 +20,8 @@ _MtMoon1BattleText3::
 	done
 
 _MtMoon1EndBattleText3::
-	text "אני שונא להפסיד!"
+	text "אני שונא"
+	line "להפסיד!"
 	prompt
 
 _MtMoon1AfterBattleText3::
@@ -50,18 +51,18 @@ _MtMoon1BattleText5::
 	done
 
 _MtMoon1EndBattleText5::
-	text "ה#ימון שלי לא"
-	line "ישרוד!"
+	text "ה#ימון"
+	line "שלי לא מספיק!"
 	prompt
 
 _MtMoon1AfterBattleText5::
 	text "אני חייב למצוא"
-	line "ימון חזק יותר#."
+	line "#ימון חזק יותר."
 	done
 
 _MtMoon1BattleText6::
 	text "מה? אני מחכה"
-	line "שחבריי יימצאו"
+	line "שחבריי ימצאו"
 	cont "אותי כאן."
 	done
 
@@ -81,7 +82,8 @@ _MtMoon1BattleText7::
 	done
 
 _MtMoon1EndBattleText7::
-	text "עלית עליי!"
+	text "עלית"
+	line "עליי!"
 	prompt
 
 _MtMoon1AfterBattleText7::
@@ -97,7 +99,7 @@ _MtMoon1BattleText8::
 	done
 
 _MtMoon1EndBattleText8::
-	text "הפסדתי."
+	text "הפסדתי"
 	prompt
 
 _MtMoon1AfterBattleText8::

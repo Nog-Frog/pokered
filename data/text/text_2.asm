@@ -215,8 +215,9 @@ _LavenderPokecenterGuyText::
 
 _MtMoonPokecenterBenchGuyText::
 	text "אם יש לך יותר מדי"
-	line "#ימונים, אני מציע"
-	cont "שתאחסן אותם במחשב!"
+	line "#ימונים, אני"
+	cont "מציע שתאחסן אותם"
+	cont "במחשב!"
 	done
 
 _RockTunnelPokecenterGuyText::

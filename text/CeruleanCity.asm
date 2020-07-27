@@ -106,7 +106,7 @@ _CeruleanCityText3::
 	done
 
 _CeruleanCityText4::
-	text "השיח הזה שם שמול"
+	text "השיח הזה שם ממול"
 	line "החנות מפריע בדרך."
 
 	para "אולי יש דרך"

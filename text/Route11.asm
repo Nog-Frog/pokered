@@ -46,7 +46,7 @@ _Route11AfterBattleText3::
 	done
 
 _Route11BattleText4::
-	text "Cזהירות!"
+	text "זהירות!"
 	line "אני מניח כאן"
 	cont "תשתיות חשמל!"
 	done
